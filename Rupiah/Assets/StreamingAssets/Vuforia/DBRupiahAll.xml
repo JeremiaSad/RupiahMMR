@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="idr_seribu" size="0.150000 0.068000" />
+    <ImageTarget name="idr_duaribu" size="0.150000 0.069250" />
+    <ImageTarget name="idr_limaribu" size="0.150000 0.067500" />
+    <ImageTarget name="idr_sepuluhribu" size="0.150000 0.066064" />
+    <ImageTarget name="idr_duapuluhribu" size="0.150000 0.064787" />
+    <ImageTarget name="idr_limapuluhribu" size="0.150000 0.064468" />
+    <ImageTarget name="idr_seratusribu" size="0.150000 0.063594" />
+  </Tracking>
+</QCARConfig>
